@@ -1,4 +1,4 @@
-# [Tribute-to-Dr.-Kalam](https://sahilmarshal.github.io/Tribute-to-Dr.-Kalam/)
+# [Tribute-to-Dr.-Kalam](https://sahilmarshal.github.io/Tribute-to-Dr.-Kalam/){:target="_blank" rel="noopener"}
 This project is a beautifully designed HTML and CSS tribute page dedicated to Dr. A.P.J. Abdul Kalam, the esteemed Indian scientist and former President of India. This page celebrates his remarkable life, achievements, and inspirational legacy.
 
 ### Development:
